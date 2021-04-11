@@ -929,6 +929,7 @@ ul.tree-2wKJdG:focus {
   margin-bottom: calc(var(--margin) + 150px);
   padding-top: 7px !important;
   top: 70px;
+  width: 120px;
 }
 
 .wrapper-3NnKdC::before {
