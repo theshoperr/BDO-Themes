@@ -17,11 +17,11 @@
 }
 
 /*Hide the activity icon background in both user popouts */
-.avatarWrapperNormal-3wFMbf > .wrapper-3t9DeA > .mask-1l8v16 foreignObject, .header-QKLPzZ > .wrapper-3t9DeA > .mask-1l8v16 foreignObject {
+/*.avatarWrapperNormal-3wFMbf > .wrapper-3t9DeA > .mask-1l8v16 foreignObject, .header-QKLPzZ > .wrapper-3t9DeA > .mask-1l8v16 foreignObject {
   -webkit-mask: none !important;
           mask: none !important;
   border-radius: var(--avatar-radius);
-}
+}*/
 
 /* Fix the "View Profile" thing when u over your avatar */
 .avatarHint-1qgaV3 foreignObject {
