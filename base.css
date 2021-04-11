@@ -13,7 +13,7 @@
 }
 
 :root {
-  --avatar-radius: 14% /* if you want your avatar more or less round it's here */ ;
+  --avatar-radius: 5px /* if you want your avatar more or less round it's here */ ;
 }
 
 /* Hide the activity icon background in both user popouts */
