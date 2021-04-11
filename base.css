@@ -13,7 +13,7 @@
 }
 
 :root {
-  --avatar-radius: 5px /* if you want your avatar more or less round it's here */ ;
+  --avatar-radius: 5% /* if you want your avatar more or less round it's here */ ;
 }
 
 /*Hide the activity icon background in both user popouts */
@@ -95,7 +95,7 @@
 .form-2fGMdU .wrapper-39oAo3 {
   background-color: var(--background-secondary);
   border-radius: var(--neb-border-radius2);
-  /*margin-top: var(--margin);*/
+  margin-top: var(--margin);
   box-shadow: none;
 }
 
