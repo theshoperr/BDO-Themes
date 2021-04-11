@@ -1292,7 +1292,7 @@ ul.tree-2wKJdG:focus {
   padding-top: 10px;
 }
 
-.modal-3c3bKg .root-SR8cQa .topSectionNormal-2-vo2m .header-QKLPzZ .avatar-3EQepX,
+/*.modal-3c3bKg .root-SR8cQa .topSectionNormal-2-vo2m .header-QKLPzZ .avatar-3EQepX,
 .modal-3c3bKg .root-SR8cQa .topSectionPlaying-1J5E4n .header-QKLPzZ .avatar-3EQepX,
 .modal-3c3bKg .root-SR8cQa .topSectionStreaming-1Tpf5X .header-QKLPzZ .avatar-3EQepX,
 .modal-3c3bKg .root-SR8cQa .topSectionXbox-3fWLjS .header-QKLPzZ .avatar-3EQepX,
@@ -1315,7 +1315,7 @@ ul.tree-2wKJdG:focus {
   x: 10;
   y: 70;
   ry: 5;
-}
+}*/
 
 .modal-3c3bKg .root-SR8cQa .topSectionNormal-2-vo2m .header-QKLPzZ .avatar-3EQepX [mask="url(#svg-mask-status-online)"],
 .modal-3c3bKg .root-SR8cQa .topSectionPlaying-1J5E4n .header-QKLPzZ .avatar-3EQepX [mask="url(#svg-mask-status-online)"],
