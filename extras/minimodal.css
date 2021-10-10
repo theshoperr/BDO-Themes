@@ -1,6 +1,6 @@
 /* KIA User Popout */
  .userPopout-xaxa6l {
-     background-color: var(--background-tertiary);
+     background-color: var(--background-secondary);
      border-radius: var(--primary-rounding);
 }
 
@@ -45,7 +45,7 @@
 }
 
  .userPopout-xaxa6l .avatarWrapper-3r9PdD .avatar-37jOim .mask-1l8v16 foreignObject .avatar-VxgULZ {
-     background-color: var(--background-primary);
+     background-color: var(--background-tertiary);
      border-radius: var(--avatar-radius);
 }
 
