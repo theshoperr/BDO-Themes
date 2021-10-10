@@ -1,0 +1,34 @@
+.container-1taM1r {
+  background: transparent !important;
+}
+
+.container-3w7J-x[aria-label*="🎩Server dos Gordão🎩"] .header-2V-4Sw,
+.container-3w7J-x[aria-label*="Os dois bonitos"] .header-2V-4Sw{
+    box-shadow: none;
+}
+
+/*Server dos gordão*/
+.container-3w7J-x[aria-label*="🎩Server dos Gordão🎩"] .positionedContainer-3LNR6L {
+    margin-top: -48px;
+    width: 100%;
+    height: 300px;
+    box-shadow: inset 0 0 0 135px rgba(0,0,0,0.35);
+    position: relative;
+    background-image: url("https://imgur.com/qHIKpkm.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/*Os dois bonitos*/
+.container-3w7J-x[aria-label*="Os dois bonitos"] .positionedContainer-3LNR6L {
+    margin-top: -48px;
+    width: 100%;
+    height: 300px;
+    box-shadow: inset 0 0 0 135px rgba(0,0,0,0.35);
+    position: relative;
+    background-image: url("https://imgur.com/d9coXJK.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
