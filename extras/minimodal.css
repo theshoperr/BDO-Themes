@@ -45,7 +45,7 @@
 }
 
  .userPopout-xaxa6l .avatarWrapper-3r9PdD .avatar-37jOim .mask-1l8v16 foreignObject .avatar-VxgULZ {
-     background-color: var(--background-tertiary);
+     background-color: var(--background-secondary);
      border-radius: var(--avatar-radius);
 }
 
@@ -89,13 +89,13 @@
 }
 
  .userPopout-xaxa6l .body-3HBlXn .bodyInnerWrapper-26fQXj {
-     background-color: var(--background-tertiary);
+     background-color: var(--background-secondary);
      border-radius: var(--primary-rounding);
      padding: 6px;
 }
 
  .userPopout-xaxa6l .footer-3UKYOU {
-     background-color: var(--background-tertiary);
+     background-color: var(--background-secondary);
      border-radius: var(--primary-rounding);
      margin: var(--primary-spacing);
      margin-top: 0 !important;
