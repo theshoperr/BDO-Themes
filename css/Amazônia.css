@@ -1,0 +1,25 @@
+/*
+ _______  __   __  _______  _______  _______  __    _  ___   _______ 
+|   _   ||  |_|  ||   _   ||       ||       ||  |  | ||   | |   _   |
+|  |_|  ||       ||  |_|  ||____   ||   _   ||   |_| ||   | |  |_|  |
+|       ||       ||       | ____|  ||  | |  ||       ||   | |       |
+|       ||       ||       || ______||  |_|  ||  _    ||   | |       |
+|   _   || ||_|| ||   _   || |_____ |       || | |   ||   | |   _   |
+|__| |__||_|   |_||__| |__||_______||_______||_|  |__||___| |__| |__|
+*/
+
+@charset "UTF-8";
+
+
+/*App warning version*/
+#app-mount .app-2rEoOp::before {
+    content: "Your version of {Theme Name} is outdated. Please download the newest version from: https://betterdiscord.app/theme/{Theme Name}";
+    display: var(--version1_0, block);
+    background-color: #4a90e2;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: center;
+    z-index: 101;
+}
