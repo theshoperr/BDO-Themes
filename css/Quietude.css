@@ -139,6 +139,14 @@ body{
 
 /*---------FORMATO DO UI----------*/
 
+.layer-3QrUeG{
+  background-color: transparent !important;
+}
+.standardSidebarView-3F1I7i{
+  height: 90%;
+  margin-top: 30px !important;
+}
+
 .unreadTop-3rAB3r.unread-15xhX5.container-35XQWE{
   margin-top: 100px;
   right: 10px;
@@ -337,7 +345,8 @@ body{
 .uploadModal-2ifh8j,
 .container-14fypd,
 .flex-1xMQg5.flex-1O1GKY.horizontalReverse-2eTKWD.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.footer-2gL1pp,
-.autocomplete-1vrmpx.autocomplete-OOX59Q.autocompleteAttached-2QfAgp{
+.autocomplete-1vrmpx.autocomplete-OOX59Q.autocompleteAttached-2QfAgp,
+.flex-1xMQg5.flex-1O1GKY.horizontalReverse-2eTKWD.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyBetween-2tTqYu.alignStretch-DpGPf3.noWrap-3jynv6.footer-2gL1pp{
 	background-color: var(--background-tertiary) !important;
 }
 /*.flex-1xMQg5,*/
@@ -351,7 +360,8 @@ body{
 .base-1pYU8j.selectable-3dP3y-.selected-1Tbx07{
 	background-color: var(--background-secondary-alt) !important;
 }
-.rolesList-1geHY1{
+.rolesList-1geHY1,
+.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.footer-2gL1pp.footer-2Bb21C{
 	background-color: var(--background-secondary) !important;
 }
 .callContainer-36WRfH,
