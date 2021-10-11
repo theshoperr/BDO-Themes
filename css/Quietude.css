@@ -328,6 +328,10 @@ body{
 
 /*---------CORREÇÃO DE CORES----------*/
 
+.focusLock-Ns3yie{
+  background-color: transparent !important;
+}
+
 /*Fade na lista de dms*/
 .privateChannels-1nO12o::before {content: '';position: absolute;top: 0;width: 100%;height: 150px;background: linear-gradient(var(--background-secondary), rgba(255, 255, 255, 0.001));}
 .privateChannels-1nO12o::after {content: '';position: absolute;bottom: 0;width: 100%;height: 150px;background: linear-gradient(rgba(255, 255, 255, 0.001), var(--background-secondary));}
