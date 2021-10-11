@@ -551,6 +551,9 @@ body:not([data-current-user-id])::after {
 .name-3l27Hl {
   text-align: center;
 }
+.arrow-gKvcEx{
+  display: block;
+}
 
 
 /*Esconder barra de chat de canais que não pode falar*/
