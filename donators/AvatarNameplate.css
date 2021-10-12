@@ -4,6 +4,6 @@
 
 .avatar-1BDn8e[src*="235563052244795392"] + h2::after{
   content: "Theshoperr";
-  --user-color: rgb(69, 161, 100);
+  --user-color: #3B3350;
   --user-image: url("https://i.imgur.com/3FBPjku.gif");
 }
