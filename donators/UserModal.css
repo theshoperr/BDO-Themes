@@ -1,0 +1,17 @@
+.aboutMeTitle-1IYtPE {margin-left: 300px;}
+.nickname-3M3Jfa, .headerTagWithNickname-3l_x6x, .customStatus-oN4ZZY, .aboutMeSection-1Fw5Ia, .bodyTitle-1ySSKn, .headerTopWithCustomStatus-1DHAjX{
+  text-align: center!important;
+}
+
+
+/*                                                                            USERS LIST                                                          */
+#app-mount [data-user-id="690339598035189882"].userPopout-xaxa6l{
+  width: 700px !important;
+  height: 600px !important;
+}
+#app-mount [data-user-id="690339598035189882"].bannerPremium-2hSAwz,
+#app-mount [data-user-id="690339598035189882"] .popoutBanner-19WKGg{
+  width: 700px;
+  height: 300px;
+}
+#app-mount [data-user-id="690339598035189882"].avatar-37jOim {border: 6px solid transparent;background-color: transparent;
