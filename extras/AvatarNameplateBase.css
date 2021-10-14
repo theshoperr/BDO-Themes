@@ -32,11 +32,6 @@
   transform: scale(.5);
 }
 .avatar-1BDn8e:hover + h2::after {
-  background-image: var(--user-image);
-  background-color: var(--user-color);
-  background-size: cover;
-  content: var(--user-name);
-  box-shadow: 0 0 5px 2px var(--user-color);
   pointer-events: none;
   color: #fff;
   text-shadow: 1px 1px 3px black !important;
