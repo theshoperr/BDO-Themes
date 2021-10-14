@@ -27,7 +27,6 @@
   left: -42px;
   opacity: 1;
   transition: opacity .25s ease-in-out;
-  content: '';
   height: 48px !important;
   width: 48px !important;
   transform: scale(.5);
