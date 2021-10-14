@@ -8,4 +8,6 @@
   --user-color: #3B3350;
   --user-image: url("https://i.imgur.com/3FBPjku.gif");
   --user-name: 'Theshoperr';
+  
+  content: '';
 }
