@@ -21,4 +21,5 @@
   content: var(--user-name);
   background-size: cover;
   box-shadow: 0 0 5px 2px var(--user-color);
+  width: auto;
 }
