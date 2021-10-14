@@ -64,7 +64,7 @@ root .userPopout-xaxa6l .headerTop-3vNv-a .profileBadges-ohc0Vu {
   width: 100%;
   margin: 0 0 8px 0px;
   padding: 35px 8px 8px 8px;
-  background-color: var(--background-secondary);
+  background-color: var(--background-primary);
   border-radius: var(--ui-border);
 }
 :root .userPopout-xaxa6l .body-3HBlXn .customStatus-oN4ZZY::before {
@@ -85,7 +85,7 @@ root .userPopout-xaxa6l .headerTop-3vNv-a .profileBadges-ohc0Vu {
 :root .userPopout-xaxa6l .body-3HBlXn .aboutMeSection-1Fw5Ia {
   margin: 0 0 8px 0px;
   padding: 0 0 8px 8px;
-  background-color: var(--background-secondary);
+  background-color: var(--background-primary);
   border-radius: var(--ui-border);
 }
 :root .userPopout-xaxa6l .body-3HBlXn .aboutMeSection-1Fw5Ia .aboutMeTitle-1IYtPE {
@@ -100,7 +100,7 @@ root .userPopout-xaxa6l .headerTop-3vNv-a .profileBadges-ohc0Vu {
   padding-left: 8px;
 }
 :root .userPopout-xaxa6l .body-3HBlXn .bodyInnerWrapper-26fQXj .activity-2INFPu {
-  background-color: var(--background-secondary);
+  background-color: var(--background-primary);
   padding-bottom: 8px;
   margin-bottom: 8px;
   margin-left: -8px;
@@ -125,9 +125,10 @@ root .userPopout-xaxa6l .headerTop-3vNv-a .profileBadges-ohc0Vu {
   border-radius: var(--ui-border) var(--ui-border) 0 0;
 }
 :root .userPopout-xaxa6l .body-3HBlXn .bodyInnerWrapper-26fQXj .rolesList-1geHY1 {
-  margin: 0 0 8px 0;
-  border-radius: 0 0 var(--ui-border) var(--ui-border);
-  background-color: var(--background-secondary-alt);
+  margin: 0 0 8px -8px;
+  padding-left: 5px;
+  border-radius: var(--ui-border) var(--ui-border);
+  background-color: var(--background-primary);
 }
 :root .userPopout-xaxa6l .body-3HBlXn .bodyInnerWrapper-26fQXj .rolesList-1geHY1 .role-2irmRk {
   position: relative;
@@ -182,7 +183,7 @@ root .userPopout-xaxa6l .headerTop-3vNv-a .profileBadges-ohc0Vu {
   border-radius: var(--ui-border);
 }
 :root .root-3QyAh1 .topSection-y3p-_D {
-  background-color: var(--background-secondary-alt);
+  background-color: var(--background-primary);
 }
 :root .root-3QyAh1 .topSection-y3p-_D > header {
   margin-left: 8px;
