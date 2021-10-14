@@ -2,6 +2,7 @@
 :root{
   --user-color: #000;
   --user-image: url("https://i.imgur.com/6LUsNYG.gif");
+  --user-name: '';
 }
 #app-mount .avatar-1BDn8e + h2 {
   overflow: visible;
@@ -11,20 +12,22 @@
   overflow: visible;
 }
 .avatar-1BDn8e + h2::after {
-  color: transparent;
+  color: #fff;
+  font-family: 'BMTicons';
   cursor: pointer;
   pointer-events: none;
   display: inline-block !important;
   position: absolute;
-  bottom: -23px;
-  left: -29px;
-  opacity: 0;
+  bottom: -42px;
+  left: -42px;
+  opacity: 1;
   transition: opacity .25s ease-in-out;
 }
 .avatar-1BDn8e:hover + h2::after {
   background-image: var(--user-image);
   background-color: var(--user-color);
   background-size: cover;
+  content: var(--user-name);
   box-shadow: 0 0 5px 2px var(--user-color);
   pointer-events: none;
   color: #fff;
@@ -40,7 +43,8 @@
   display: block;
   position: absolute;
   width: auto;
-  height: 30px;
+  height: 30px !important;
+  transform: scale(1);
   opacity: 1;
 }
 #app-mount .messagesPopoutWrap-1MQ1bW .avatar-1BDn8e+ h2::after{
