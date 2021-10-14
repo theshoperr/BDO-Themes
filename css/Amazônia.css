@@ -37,7 +37,7 @@
   --background-message-hover: transparent;
   --background-modifier-hover: #00000010;
   --background-modifier-active: #0000001a;
-  --background-modifier-selected: #32503144;
+  --background-modifier-selected: var(--background-accent);
   --deprecated-card-bg: var(--background-tertiary);
   --background-floating: var(--background-tertiary);
   --elevation-low: none;
