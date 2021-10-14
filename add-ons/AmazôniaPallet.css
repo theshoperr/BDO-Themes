@@ -1,0 +1,18 @@
+:root{
+  /*Main colors*/
+  --background-primary: #243823;
+  --background-secondary:  #375536;
+  --background-secondary-alt: #375536;
+  --background-tertiary: #152614;
+  --background-mobile-primary: #3E5931;
+  --background-mobile-secondary: #3E5931;
+  --channeltextarea-background: #3E5931;
+  --background-accent: #75A644;
+  --text-color: rgb(223, 223, 223);
+
+  /*Extra colors*/
+  --background-gradient-1:rgba(43, 63, 45, 0.8);
+  --background-gradient-2:#375536ab;
+  --hover-color:#2e4034;
+  --mention-hue: 112;
+}
