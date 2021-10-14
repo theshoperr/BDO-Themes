@@ -1,0 +1,20 @@
+:root{
+  --background-image: url("https://imgur.com/5z3OpwT.png");
+  
+  /*Main colors*/
+  --background-primary: #282B30;
+  --background-secondary:  #424549;
+  --background-secondary-alt: #424549;
+  --background-tertiary: #36393E;
+  --background-mobile-primary: #434c5e;
+  --background-mobile-secondary: #4c556a;
+  --channeltextarea-background: var(--background-secondary);
+  --background-accent: #1E2124;
+  --text-color: rgb(255, 255, 255);
+
+  /*Extra colors*/
+  --background-gradient-1: #7a7a7a56;
+  --background-gradient-2:#2c2c2c80;
+  --hover-color:#718DD8;
+  --mention-hue: 210;
+}
