@@ -1,0 +1,42 @@
+/**
+* @name Amazônia
+* @author theshoperr#8074
+* @description A flat style theme that is green like the Amazon Rainforest
+* @version 1.0
+*/
+
+/*Main*/
+@import url("https://theshoperr.github.io/BDO-Themes/css/Amazônia.css");
+
+/*Meus adicionais*/
+@import url("https://theshoperr.github.io/BDO-Themes/extras/UserModal2.css");
+@import url("https://theshoperr.github.io/BDO-Themes/donators/AvatarNameplate.css");
+@import url("https://theshoperr.github.io/BDO-Themes/donators/ColoredNames.css");
+
+:root{
+
+  /*Others*/
+  --background-image: url("https://imgur.com/fVbvquj.png"); /* Don't remove the "url("")", put your link inside it */
+  --ui-border: 20px;
+
+  /*Main colors*/
+  --background-primary: #243823;
+  --background-secondary:  #375536;
+  --background-secondary-alt: #375536;
+  --background-tertiary: #152614;
+  --background-mobile-primary: #3E5931;
+  --background-mobile-secondary: #3E5931;
+  --channeltextarea-background: #3E5931;
+  --background-accent: #75A644;
+  --text-color: rgb(223, 223, 223);
+
+  /*Extra colors*/
+  --background-gradient-1:rgba(43, 63, 45, 0.8);
+  --background-gradient-2:#375536ab;
+  --hover-color:#2e4034;
+  --mention-hue: 112;
+}
+
+:root{
+  --version1_0: none;
+}
