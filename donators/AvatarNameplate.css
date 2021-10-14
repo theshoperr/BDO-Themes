@@ -11,3 +11,14 @@
   
   content: '';
 }
+
+
+
+/*On hover*/
+.avatar-1BDn8e[src*="235563052244795392"]:hover + h2::after{
+  background-image: var(--user-image);
+  background-color: var(--user-color);
+  content: var(--user-name);
+  background-size: cover;
+  box-shadow: 0 0 5px 2px var(--user-color);
+}
