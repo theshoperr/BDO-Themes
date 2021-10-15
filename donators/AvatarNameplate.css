@@ -11,10 +11,18 @@
   
   content: '';
 }
-
+.avatar-1BDn8e[src*="690339598035189882"] + h2::after{
+  background-image: var(--lemon);
+  --user-color: #F1EB8A;
+  --user-image: url("https://i.imgur.com/Y58qHVO.gif");
+  --user-name: 'maracuja';
+  
+  content: '';
+}
 
 
 /*On hover*/
+.avatar-1BDn8e[src*="690339598035189882"]:hover + h2::after,
 .avatar-1BDn8e[src*="235563052244795392"]:hover + h2::after{
   background-image: var(--user-image);
   background-color: var(--user-color);
