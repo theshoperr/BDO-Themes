@@ -19,9 +19,19 @@
   
   content: '';
 }
+.avatar-1BDn8e[src*="299994897157586944"] + h2::after{
+  background-image: var(--controller);
+  --user-color: #20c9ff;
+  --user-image: url("https://i.imgur.com/tT54Tje.png");
+  --user-name: 'Pengu';
+  
+  content: '';
+}
 
 
 /*On hover*/
+
+.avatar-1BDn8e[src*="299994897157586944"]:hover + h2::after,
 .avatar-1BDn8e[src*="690339598035189882"]:hover + h2::after,
 .avatar-1BDn8e[src*="235563052244795392"]:hover + h2::after{
   background-image: var(--user-image);
