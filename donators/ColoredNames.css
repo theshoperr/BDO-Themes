@@ -1,3 +1,6 @@
+.message-2qnXI6[data-author-id="898087608150814770"] .username-1A8OIy,
+.member-3-YXUe[data-user-id="898087608150814770"] .roleColor-rz2vM0,
+
 .message-2qnXI6[data-author-id="690339598035189882"] .username-1A8OIy,
 .member-3-YXUe[data-user-id="690339598035189882"] .roleColor-rz2vM0,
 
@@ -9,6 +12,11 @@
   filter: brightness(1) invert(0);
   text-shadow: 0px 0px 5px;
 }
+
+/*------------------------------ON HOVER---------------------------------------*/
+
+.message-2qnXI6[data-author-id="898087608150814770"] .username-1A8OIy:hover,
+.member-3-YXUe[data-user-id="898087608150814770"] .roleColor-rz2vM0:hover,
 
 .message-2qnXI6[data-author-id="690339598035189882"] .username-1A8OIy:hover,
 .member-3-YXUe[data-user-id="690339598035189882"] .roleColor-rz2vM0:hover,
