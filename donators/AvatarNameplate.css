@@ -3,6 +3,7 @@
 /*                                                              USERS LIST                                                     */
 
 /*Badge, color and bg definition*/
+/*#BREAK*/
 .avatar-1BDn8e[src*="235563052244795392"] + h2::after{
   background-image: var(--mate);
   --user-color: #3B3350;
@@ -31,6 +32,7 @@
 
 /*On hover*/
 
+/*#BREAK*/
 .avatar-1BDn8e[src*="299994897157586944"]:hover + h2::after,
 .avatar-1BDn8e[src*="690339598035189882"]:hover + h2::after,
 .avatar-1BDn8e[src*="235563052244795392"]:hover + h2::after{
@@ -41,3 +43,5 @@
   box-shadow: 0 0 5px 2px var(--user-color);
   width: auto !important;
 }
+
+/*#theshoperr-s-code*/
